@@ -1,0 +1,33 @@
+_repo: The-Eternal-City_19732
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 19732-h/images/eternal-cover.jpg
+creator:
+  author:
+    agent_name: Caine, Hall, Sir
+    aliases:
+    - Caine, Thomas Henry Hall, Sir
+    - Caine, T. Hall, Sir
+    birthdate: 1853
+    deathdate: 1931
+    gutenberg_agent_id: '591'
+    url: http://www.gutenberg.org/2009/agents/591
+    wikipedia: http://en.wikipedia.org/wiki/Hall_Caine
+description: New National Theatre, Wm. H. Rapley, manager, Wm. H. Fowler, treasurer.
+  Viola Allen as Roma in a dramatization by Mr. Hall Caine of his novel "The Eternal
+  City," incidental music composed and arranged by Signore Pietro Mascagni, produced
+  under the stage direction of E.W. Presbrey, Liebler & Co., managers
+gutenberg_issued: '2006-11-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19732'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Rome (Italy) -- Fiction'
+title: The Eternal City
+url: http://www.gutenberg.org/ebooks/19732
